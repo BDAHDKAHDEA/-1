@@ -1,0 +1,14 @@
+*{margin: 0;padding: 0;box-sizing: border-box;font-family: 'ZCOOL KuaiLe', cursive;
+    font-family: 'Zhi Mang Xing', cursive;
+    font-family: 'Ma Shan Zheng', cursive;
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+    font-family: 'Varela Round', sans-serif; }
+
+.carousel-inner img {
+    width: 100%;
+    height: 90vh;
+}
+.aboutimg{
+    width: 400px;
+    height: 250px;
+}
